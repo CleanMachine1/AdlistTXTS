@@ -1,3 +1,4 @@
+#!/bin/sh
 rm ./hosts
 rm ./adservers.txt
 wget https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
