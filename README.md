@@ -17,3 +17,5 @@ This combination is a very extreme blacklist due to it being normally over 1.2M 
 
 Go to your admin panel, go to group management, Adlist and add the following address
 https://raw.githubusercontent.com/CleanMachine1/AdlistTXTS/main/list.txt
+then save it
+then finally refresh your gravity (tools, update gravity)
