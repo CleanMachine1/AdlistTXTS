@@ -10,9 +10,11 @@ Please recommend me more adlists in the issues section!
 This is a compilation of 3 different blacklist adlists, they are the following:
 
 https://github.com/StevenBlack/hosts
+<br>
 https://github.com/anudeepND/blacklist
+<br>
 https://dbl.oisd.nl/
-
+<br>
 This combination is a very extreme blacklist due to it being normally over 1.2M blocks
 
 ### How to use 
