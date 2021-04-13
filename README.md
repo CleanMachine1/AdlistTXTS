@@ -23,3 +23,4 @@ Go to your admin panel, go to group management, Adlist and add the following add
 https://raw.githubusercontent.com/CleanMachine1/AdlistTXTS/main/list.txt
 then save it
 then finally refresh your gravity (tools, update gravity)
+And you are done
