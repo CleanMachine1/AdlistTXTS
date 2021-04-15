@@ -31,4 +31,4 @@ And you are done!
 
 ### How does this stay updated?
 
-A simple bash script on a server which pushes every day after updating it's self
+A simple bash script on a server which pushes every day after updating itself
