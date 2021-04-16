@@ -3,6 +3,8 @@
 I do not take ownership of any of these lists, merely using them and having 
 backups here.
 
+I prefer to also see how much is being added and removed easily.
+
 Please recommend me more adlists in the issues section!
 
 ### What this does
@@ -25,10 +27,10 @@ Go to your admin panel, go to group management, Adlist and add the following add
 https://raw.githubusercontent.com/CleanMachine1/AdlistTXTS/main/list.txt
 
 Then save it.
-Then finally refresh your gravity (tools, update gravity).
+Then finally refresh your gravity (tools then update gravity).
 And you are done!
 
 
 ### How does this stay updated?
 
-A simple bash script on a server which pushes every day after updating itself
+A simple bash script on a server which pushes every day after updating itself.
