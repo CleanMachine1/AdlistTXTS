@@ -32,4 +32,7 @@ And you are done!
 
 ### How does this stay updated?
 
-A simple bash script on a server which pushes every day after updating itself.
+A simple bash script on a server which pushes every day after updating itself. 
+Update: I have changed it so that it is 2 pushes a day (12 hours apart)
+
+Also I have gpg signed all of the new commits so that you know it is me pushing!
