@@ -18,7 +18,6 @@ https://github.com/anudeepND/blacklist
 https://dbl.oisd.nl/
 <br>
 This combination is a very extreme blacklist due to it being normally over 1.2M blocks
-However this number has decreased since dbl.oisd.nl removed a list with 300K blocks since they were mostly junk (my thoughts).
 
 ### How to use 
 
