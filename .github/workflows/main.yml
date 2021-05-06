@@ -30,3 +30,9 @@ jobs:
         run: wget https://github.com/anudeepND/blacklist
         
         
+      - name: upload
+        uses: actions/upload-artifact@v2
+        with:
+          name: list
+          path: /list.txt
+          
