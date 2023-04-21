@@ -1,6 +1,3 @@
-## Due to [this reddit post](https://www.reddit.com/r/pihole/comments/1129m1y/oisd_blocklist_depreciated_for_pihole/), I will be stopping this from being updated until a fix is made or Pi-Hole allows this syntax.
-
-
 
 I do not take ownership of any of these lists, merely using them and having 
 backups here.
